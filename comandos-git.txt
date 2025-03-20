@@ -1,0 +1,35 @@
+**COMANDOS DE NAVEGAÇÃO
+
+dir - (lista os diretórios da raiz);
+clear - (limpa os comandos anteriores);
+cd - abre uma pasta
+cd .. - volta uma pasta
+cd ~ - volta pra pasta raiz
+
+
+**COMANDOS DE CRIAÇÃO E EDIÇÃO
+mkdir - cria pastas
+mv nomeantigo nomenovo - renomeia a pasta
+rmdir - apaga diretórios vazios
+rm -d nomepasta - apaga o diretório tbm
+rm - r "nome pasta" - apaga pasta com conteúdo
+touch - cria um arquivo
+
+ mv ~documents/teste/index.html/movimento/teste.html ~documents/teste/ - move arquivo
+
+**ABRIR O VSCODE
+code . - abre o vscode quando ta em um arquivo html
+
+**GIT
+git init - 
+git add arqv-existente - adiciona
+git status - mostra o status dos arquivos
+git commit -m "mensagme" - commit e uma msg
+git log - 
+git remote add origin link-do-site - 
+git remote -v - lista se tem repositorio
+git push -u origin master - 
+git pull origin main -
+git brnach -
+git remote -v -
+git branch -r -
